@@ -1,3 +1,6 @@
+# Note: This is the final submission part of the project "Automatic Retinopathy Detection Using Digital Image Processing via a Smart Device".
+# The full repository can be found at [https://github.com/JoeyTatu/Software_Project_2020_21](https://github.com/JoeyTatu/Software_Project_2020_21).
+#
 # [National College of Ireland](https://ncirl.ie)
 # BSc. (Honours) in Computing
 # Software Development
