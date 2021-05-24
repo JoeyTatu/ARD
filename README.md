@@ -3,12 +3,12 @@ This is the final submission part of the project "Automatic Retinopathy Detectio
 The full repository can be found at [https://github.com/JoeyTatu/Software_Project_2020_21](https://github.com/JoeyTatu/Software_Project_2020_21).
 
 # Details
-[National College of Ireland](https://ncirl.ie)
-BSc. (Honours) in Computing
-Software Development
-2020/2021
-Joey Tatú
-15015556
+[National College of Ireland](https://ncirl.ie) - 
+BSc. (Honours) in Computing - 
+Software Development - 
+2020/2021 - 
+Joey Tatú - 
+15015556 - 
 [joey.tatu@student.ncirl.ie](mailto:joey.tatu@student.ncirl.ie)
 
 # Executive Summary
